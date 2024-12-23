@@ -1,0 +1,4 @@
+torch>=1.9.0          # PyTorch
+torchvision>=0.10.0   # Utilitaires PyTorch pour les données
+matplotlib>=3.4.3     # Pour les graphiques et visualisations
+numpy>=1.21.2         # Opérations numériques
