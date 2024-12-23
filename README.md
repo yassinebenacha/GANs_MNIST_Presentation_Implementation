@@ -13,4 +13,4 @@ Ce repository présente un travail détaillé sur les GANs, comprenant :
 ## Prérequis
 Installez les dépendances en exécutant :  
 ```bash
-pip install -r Code/requirements.txt
+pip install -r requirements.txt
