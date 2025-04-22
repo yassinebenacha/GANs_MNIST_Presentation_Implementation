@@ -1,4 +1,5 @@
 # Réseaux Antagonistes Génératifs (GANs) : Présentation et Implémentation
+
 ## Introduction
 Ce repository présente un travail détaillé sur les GANs, comprenant :  
 - Une **présentation théorique** des GANs, leurs principes de fonctionnement et applications.  
